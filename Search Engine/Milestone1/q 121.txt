@@ -1,0 +1,48 @@
+1. what if a page contain the video, do we crawl video too???
+
+2. isValid -- if it is crawled, then invalid (by checking list?).
+
+3. avoid trap, how to find
+
+4. lavoid sets of pages with low information value -- avoid duplicate, empty page...???
+   -- in checkDomain() -- e.g. archive.ics.uci.edu ???
+
+
+5. dontCrawled with  return not re.match(
+            r".*\.(css|js|bmp|gif|jpe?g|ico"
+            + r"|png|tiff?|mid|mp2|mp3|mp4"
+            + r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
+            + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names"
+            + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
+            + r"|epub|dll|cnf|tgz|sha1"
+            + r"|thmx|mso|arff|rtf|jar|csv"
+            + r"|rm|smil|wmv|swf|wma|zip|rar|gz|svg"
+            + r"|txt|py|rkt|ss|scm|odc|sas|war|r|rmd"
+            + r"|ds|apk|img)$", parsed.path.lower())
+	any difference???
+6. content similar, check ??? implement it n/total >= .9 ...
+
+7. trap. check whether the extract link is the same as url???
+
+
+
+1. ??? in config.ini
+
+2. before rdelete frontier.shelve ...
+
+
+
+
+
+https://mt-live.ics.uci.edu/people/?filter%5Bresearch_areas_ics%5D%5B1410%5D=1132
+ don't need after "filter"???
+
+https://mt-live.ics.uci.edu/events/category/institute-seminars/day/2021-10-05/
+  almost empty content
+
+
+
+
+
+
+

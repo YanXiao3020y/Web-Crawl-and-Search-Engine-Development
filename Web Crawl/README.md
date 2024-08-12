@@ -25,3 +25,6 @@ analysis.
     -   The 500 most common words, excluding English stop words.
 
     -   The 20 most common 3-grams, also excluding stop words.
+
+### More Info
+For additional details, please refer to the specification document provided as specification.pdf.
