@@ -1,2 +1,3 @@
-cbor
-requests
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06d6e75300adc44e4269aa5cb233cf57a3a17a6b08eefb5a544edfd211a6fb1
+size 13

@@ -1,12 +1,3 @@
-for search of combination:
-1. put each word with its keys into a set
-2. common_ids = interset word_set 
-3. for i in common_id, score[i] = word1[i] + word2[i] + word3[i] +。。。
-4. use Yuan's function (in test) to output top 5 id.
-5. use Yuan's function (not sent yet) to output top 5 url. (2am 11/19)
-
-situation:
-1. if not exist common id from token of query, what to output?
-
-
-len() == 0, then skip for search
+version https://git-lfs.github.com/spec/v1
+oid sha256:959bc3872a1a4a81e1cef14818fa800e49da169a39779d3b4b6707e9ee7df419
+size 424

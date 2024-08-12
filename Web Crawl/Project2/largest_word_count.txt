@@ -1,1 +1,3 @@
-['https://www.stat.uci.edu/a-look-at-health-and-technology-trends-for-2021-and-beyond', 2349]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e2c3831d29ef34bbbf655aac16a7f0a91deb94e22db8ab97bc38b10394c774b
+size 93
