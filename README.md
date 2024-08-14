@@ -1,5 +1,7 @@
 **Overview**
 
+Oct - Dec 2021
+
 This project involves implementing a web crawler and a search engine for
 the ics.uci.edu domain using Python. It starts by crawling the domain
 and collecting various data points, such as unique pages and common
